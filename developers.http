@@ -1,3 +1,5 @@
-# arquivo para testes usando o vscode com a extensão: REST Client, dev: Huachao Mao
+# arquivo para testes usando o vscode com a extensão: REST Client, dev: Huachao Mao // para executar os comandos retire a hashtag de cada um
 
 GET http://localhost:3000
+
+#POST http://localhost:3000
