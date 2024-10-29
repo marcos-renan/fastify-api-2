@@ -6,7 +6,7 @@ const app = fastify({ logger: true });
 
 
 app.get("/", async (request, reply) => {
-  reply.send({ hello: "world" })
+  reply.send({ message : "helo world" })
 });
 
 // exportando a constante como modulo
